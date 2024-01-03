@@ -1,6 +1,6 @@
 # SkyCast
 
-A simple weather web app for quick updates.
+A simple weather web app for quick updates made using HTML, CSS and JavaScript.
 
 ## Usage
 
